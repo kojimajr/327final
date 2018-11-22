@@ -1,0 +1,15 @@
+login
+planner
+deleteservice
+44444
+newservice
+cancelticket
+11111
+1
+sellticket
+12321
+2
+sellticket
+22222
+4
+logout

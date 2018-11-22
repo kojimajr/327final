@@ -1,6 +1,6 @@
 login
 agent
-sellticket
+cancelticket
 11111
 10
 logout

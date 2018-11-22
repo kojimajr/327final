@@ -1,0 +1,9 @@
+login
+agent
+sellticket
+66666
+15
+sellticket
+55555
+10
+logout

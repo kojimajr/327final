@@ -1,0 +1,12 @@
+login
+agent
+sellticket
+12321
+15
+sellticket
+33333
+10
+sellticket
+55555
+2
+logout

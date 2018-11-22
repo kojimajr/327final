@@ -3,11 +3,11 @@ planner
 createservice
 12321
 20101010
-newService
+anotherserice
 sellticket
-12321
-10
-cancelticket
-12321
+22222
 5
+cancelticket
+22222
+10
 logout
