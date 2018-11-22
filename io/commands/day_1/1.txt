@@ -1,0 +1,7 @@
+login
+agent
+createservice
+12345
+hello
+20101010
+logout
