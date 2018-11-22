@@ -1,0 +1,10 @@
+login
+agent
+sellticket
+11111
+6
+changeticket
+11111
+22222
+3
+logout
