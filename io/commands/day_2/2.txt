@@ -1,0 +1,9 @@
+login
+agent
+sellticket
+12345
+5
+cancelticket
+11111
+3
+logout

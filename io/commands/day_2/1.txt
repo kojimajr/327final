@@ -1,0 +1,7 @@
+login
+planner
+createservice
+55555
+20101010
+party
+logout
