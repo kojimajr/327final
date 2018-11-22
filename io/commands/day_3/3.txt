@@ -4,10 +4,7 @@ createservice
 66666
 20101010
 bus
-sellticket
-66666
-22
 cancelticket
-11111
+22222
 3
 logout

@@ -175,6 +175,6 @@ fileWriter.close()
 #Write new Valid Services File to given filename, sorted in ascending order of service number
 fileWriter = open(VSF_filename, 'w')
 for key in sorted(centralServices):
-        fileWriter.write(str(key) + " " + '\n')
+        fileWriter.write(str(key) + '\n')
 fileWriter.write(str("00000\n"))
 fileWriter.close()
