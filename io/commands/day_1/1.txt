@@ -1,7 +1,7 @@
 login
-agent
+planner
 createservice
 12345
-hello
 20101010
+hello
 logout
