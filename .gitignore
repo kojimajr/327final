@@ -2,3 +2,5 @@
 /front/objects/*.pyc
 /front/transactions/*.pyc
 __pycache__/
+/io/mtsf
+/io/tsf
