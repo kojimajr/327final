@@ -12,11 +12,17 @@ weekly.py
     
 back/back.py
     Description:
-
+        Back Office Script
     How to run:
+        Takes 4 arguments as the Central Services File filename, the Merged Transaction Summary Filename,
+        the new Central Services File filename,  and the new Valid Services File filename.
+        Runs automatically once started and will output files when successfull.
+        Logs a fatal error and exits immediately on invalid input.
     
 front/front.py
     Description:
+        Main class that controls the front-end  
 
     How to run:
-    
+        Takes 2 arguments as the Valid Services List filename and Transaction Summary File filename.
+        Waits for standard input and then calls the corresponding transaction method.
