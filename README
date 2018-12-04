@@ -2,13 +2,14 @@ QIES
 
 daily.py
     Description:
-
+        Runs one set of daily transactions
     How to run:
-
+        Execute with one argument: a number between 1 and 5, representing whic day's inputs to use
 weekly.py
     Description:
-
+        Executes daily 5 times, once for each day
     How to run:
+        Simply exectute without arguements from given directory
     
 back/back.py
     Description:
