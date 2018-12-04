@@ -4,4 +4,10 @@ createservice
 12345
 20101010
 hello
+sellticket
+11111
+1
+sellticket
+22222
+2
 logout

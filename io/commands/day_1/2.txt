@@ -2,5 +2,12 @@ login
 agent
 sellticket
 11111
-10
+5
+changeticket
+11111
+22222
+5
+cancelticket
+22222
+8
 logout
